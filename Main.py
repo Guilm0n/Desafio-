@@ -25,7 +25,7 @@ while True:
     elif operacao=='F':
         operacao=input('C ou D?')
         if operacao=='C':
-            cliente=input('Digite o nome cliente:').islower()
+            cliente=input('Digite o nome cliente:')
             for anuncio in lista:
                 if anuncio.getcliente()==cliente:
                     print(anuncio.toString())
