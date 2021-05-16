@@ -36,6 +36,8 @@ Anuncios / Main
 ```
 Main está executando o arquivo "Anuncios"
 
+# Observação:as operações estão funcionando com letras maiusuclas!
+
 
 
 
